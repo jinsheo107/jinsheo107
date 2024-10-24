@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=e8f3ed&height=200&section=header&text=Hello%20I'm%20Jinsheo&fontSize=50&animation=twinkling&fontColor=3f4f46)
+![header](https://capsule-render.vercel.app/api?type=wave&color=e8f3ed&height=150&section=header&text=Hello%20I'm%20Jinsheo&fontSize=50&animation=twinkling&fontColor=3f4f46)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jinsheo107&show_icons=true&theme=transparent" />
@@ -45,3 +45,5 @@
     <img src="https://img.shields.io/badge/Notion-F3F3F3?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   </a>
 </div>
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=e8f3ed&height=150&section=footer)
