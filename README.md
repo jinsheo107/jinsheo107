@@ -1,10 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=e8f3ed&height=150&section=header&text=Hello%20I'm%20Jinsheo&fontSize=50&animation=twinkling&fontColor=3f4f46)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinsheo107&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsheo107&layout=compact" />
-</div>
-
 <br>
 
 <h3 align="center">⌨ Tech Stack ⌨</h3>
