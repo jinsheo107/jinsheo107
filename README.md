@@ -15,8 +15,9 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsheo107&hide=stars,contribs)](https://github.com/jinsheo107/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsheo107&layout=compact)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsheo107&hide=stars,contribs)](https://github.com/jinsheo107/github-readme-stats) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsheo107&layout=compact) -->
+
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
